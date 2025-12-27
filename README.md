@@ -200,62 +200,237 @@ Build for real users, not just demos
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 Technical Expertise
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samirammar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samirammar&theme=tokyonight&hide_border=true" width="49%" />
+### Languages & Core Technologies
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirammar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samirammar&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="49%" />
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend & Mobile
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+
+### Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Tools & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 Achievements & Highlights
+## 💼 Professional Skills Matrix
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=samirammar&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+### 🏗️ Architecture
+```
+█████████░ 90%
+```
+System Design  
+Scalability  
+Patterns  
 
-</div>
+</td>
+<td align="center" width="25%">
+
+### 💻 Backend
+```
+█████████░ 90%
+```
+APIs  
+Databases  
+Real-time  
+
+</td>
+<td align="center" width="25%">
+
+### 🎨 Frontend
+```
+████████░░ 80%
+```
+React  
+State Mgmt  
+UI/UX  
+
+</td>
+<td align="center" width="25%">
+
+### 📱 Mobile
+```
+███████░░░ 70%
+```
+Flutter  
+Cross-platform  
+BLoC  
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+### 🔒 Security
+```
+████████░░ 80%
+```
+Auth/AuthZ  
+Data Protection  
+Best Practices  
+
+</td>
+<td align="center" width="25%">
+
+### 📊 DevOps
+```
+███████░░░ 70%
+```
+Docker  
+CI/CD  
+Monitoring  
+
+</td>
+<td align="center" width="25%">
+
+### 🧪 Testing
+```
+███████░░░ 70%
+```
+Unit Tests  
+Integration  
+E2E  
+
+</td>
+<td align="center" width="25%">
+
+### 📈 Performance
+```
+█████████░ 90%
+```
+Optimization  
+Profiling  
+Caching  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎓 Learning & Growth
 
-```mermaid
-mindmap
-  root((Samir))
-    Backend
-      System Design
-      Database Design
-      API Architecture
-      Real-time Systems
-    Frontend
-      React Ecosystem
-      State Management
-      Performance
-      UX/UI
-    Mobile
-      Flutter
-      Cross-platform
-      State Management
-    Architecture
-      Scalability
-      Security
-      Monitoring
-      DevOps
-```
+<table>
+<tr>
+<td width="50%">
 
-**Currently Exploring:**
-- 🦀 Rust for performance-critical systems
-- 🔥 Advanced PostgreSQL patterns
-- 🎯 Event-driven architectures
-- 📊 System observability & monitoring
-- 🧪 Advanced testing strategies
+### 🔥 Current Tech Stack
+
+**Runtime & Languages:**
+- ⚡ **Bun.js** - Blazing fast JavaScript runtime
+- 📘 **TypeScript** - Type-safe development
+- 🟨 **JavaScript** - Core web language
+
+**Backend & APIs:**
+- 🔥 **Hono.js** - Lightweight web framework
+- 🗄️ **Drizzle ORM** - Type-safe SQL toolkit
+- 🔷 **Prisma** - Next-gen ORM
+- 🐘 **PostgreSQL** - Primary database
+
+**Frontend:**
+- ⚛️ **React** - UI framework
+- 🎨 **Tailwind CSS** - Utility-first styling
+- 🧩 **ShadCN/UI** - Component library
+
+**Infrastructure:**
+- 🐳 **Docker** - Containerization
+- 🐧 **Linux** - Server environment
+
+</td>
+<td width="50%">
+
+### 🚀 Currently Exploring
+
+**Systems Programming:**
+- 🦀 **Rust** - Memory-safe systems language
+  - Performance-critical services
+  - CLI tools & utilities
+  - WebAssembly modules
+
+**Architecture & Scale:**
+- 🏗️ **System Design**
+  - Distributed systems patterns
+  - Microservices architecture
+  - Event-driven design
+- 📊 **Distributed Systems**
+  - Consensus algorithms
+  - Data consistency
+  - CAP theorem in practice
+- 🔄 **Message Queues**
+  - RabbitMQ, Kafka
+  - Event sourcing
+
+**Advanced Topics:**
+- 🔒 **Security & Auth**
+  - OAuth 2.0 / OIDC
+  - Zero-trust architecture
+- 📈 **Observability**
+  - Monitoring & logging
+  - Distributed tracing
+- ⚡ **Performance**
+  - Database optimization
+  - Caching strategies
+  - Load balancing
+
+</td>
+</tr>
+</table>
+
+### 🎯 Learning Path
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  Mastering                                                       │
+│  ├─ TypeScript + Bun.js ecosystem                               │
+│  ├─ Drizzle ORM & advanced SQL patterns                         │
+│  ├─ System design & distributed architecture                    │
+│  └─ Docker & containerization strategies                        │
+│                                                                  │
+│  Deep Diving                                                     │
+│  ├─ Rust for performance-critical systems                       │
+│  ├─ Event-driven architectures (Kafka, RabbitMQ)                │
+│  ├─ Kubernetes & orchestration                                  │
+│  └─ Advanced PostgreSQL (partitioning, replication)             │
+│                                                                  │
+│  Exploring                                                       │
+│  ├─ CQRS & Event Sourcing patterns                              │
+│  ├─ gRPC & Protocol Buffers                                     │
+│  ├─ WebAssembly with Rust                                       │
+│  └─ Service mesh & distributed tracing                          │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
