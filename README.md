@@ -8,7 +8,7 @@
 *Performance, scalability, and clarity matter more than hype.*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=samirammar&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/samirammar)
-[![Twitter Follow](https://img.shields.io/twitter/follow/samirammar96?style=for-the-badge&logo=twitter&color=1DA1F2)](https://twitter.com/samirammar96)
+[![Twitter Follow](https://img.shields.io/twitter/follow/samirammar696?style=for-the-badge&logo=twitter&color=1DA1F2)](https://twitter.com/samirammar96)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samirammar)
 
 </div>
